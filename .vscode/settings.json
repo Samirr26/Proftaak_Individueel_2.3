@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "i2c-lcd1602.h": "c",
+        "smbus.h": "c",
+        "sntp.h": "c",
+        "string.h": "c",
+        "lcd.h": "c",
+        "time.h": "c",
+        "sdkconfig.h": "c",
+        "protocol_examples_common.h": "c",
+        "sntp2.h": "c",
+        "nvs_flash.h": "c",
+        "esp_partition.h": "c",
+        "esp_flash.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c"
+    }
+}
