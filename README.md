@@ -2,7 +2,7 @@ Proftaak Individueel Resultaat Samir Rademakers
 
 Beschrijving
 
-Als basis van mijn code heb ik het LCD deel van mijn proftaak project gebruikt. Voor ons project maakte we een speelgoed auto die kinderen kan leren rekenen. Ik ben verder gegaan in dit thema en heb code toegevoegd aan dit project dat allemaal te maken heeft met het LCD scherm.
+Als basis van mijn code heb ik het LCD deel van mijn proftaak project gebruikt. Voor ons project maakte we een speelgoed auto die kinderen kan leren rekenen. Ik ben verder gegaan in dit thema en heb code toegevoegd aan dit project dat allemaal te maken heeft met het LCD scherm en kinderen dingen leren.
 
 Code
 
