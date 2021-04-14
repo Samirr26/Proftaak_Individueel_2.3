@@ -319,9 +319,4 @@ void write_random_numbers(){
 
         vTaskDelay(1000 / portTICK_RATE_MS);    //Wait 1 second
     }
-    
 }
-
-
-
-
